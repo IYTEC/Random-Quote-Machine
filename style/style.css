@@ -1,0 +1,25 @@
+.content_container{
+    background-color: black;
+    margin-top: 15%;
+    height: 200px
+    -webkit-border-radius: 16px 13px 14px 11px;/*Safari, Chrome*/
+    -moz-border-radius: 16px 13px 14px 11px;/*Firefox*/
+    border-radius: 16px 13px 14px 11px;
+    color: #fff;
+}
+.content{
+    margin: 15% 7% 10% 7%;
+    padding-bottom: 2%;
+}
+#quote{
+    padding-bottom: 5%;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400
+}
+#generate{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000;
+}
